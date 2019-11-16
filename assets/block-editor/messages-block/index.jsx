@@ -12,7 +12,7 @@ import './style.scss';
 
 registerBlockType( 'sensei-lms/messages-block', {
 	title: __( 'Sensei LMS Messages', 'sensei-lms' ),
-	icon: 'email',
+	icon: 'format-chat',
 	category: 'widgets',
 
 	edit: function( props ) {
